@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+table {
+  border: 1px solid black;
+}
+
+th {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+tr {
+  font-size: 0.8rem;
+}
+
+th,
+tr {
+  padding: 0.4rem 0.5rem;
+}
+
+.red {
+  background-color: red;
+  color: white;
+}
+
+.purple {
+  background-color: purple;
+  color: white;
+}
+
+.pink {
+  background-color: lightpink;
+  color: black;
+}
+
+.blue {
+  background-color: blue;
+  color: white;
+}
