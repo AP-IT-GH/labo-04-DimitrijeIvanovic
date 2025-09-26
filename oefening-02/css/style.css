@@ -1,0 +1,21 @@
+body {
+  margin: 1rem;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+ol {
+  list-style: numbers;
+  margin: 1.2rem;
+}
+
+li:nth-child(odd) {
+  color: blue;
+}
+
+li:nth-child(even) {
+  background-color: lightgreyf;
+}
