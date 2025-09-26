@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+tr,
+th,
+td {
+  padding: 0.4rem 0.5rem;
+}
+
+th {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+td {
+  border: 1px solid black;
+}
